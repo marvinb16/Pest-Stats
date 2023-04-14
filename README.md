@@ -1,6 +1,6 @@
 # Pest Control Statistics
 
-General Logging of game information
+General Logging of pest control game information
 - Games per hour
 --Points per hour
 - Average game time
